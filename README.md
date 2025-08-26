@@ -30,4 +30,4 @@ This repository includes a data analysis project focusing on population data sou
 git clone https://github.com/NadiaHirwa/Population-Data-World-Bank-API-.git
 cd Population-Data-World-Bank-API-
 pip install -r requirements.txt   # if you keep a requirements file
-jupyter notebook Group_6_Demo2.ipynb
+jupyter notebook DataRetrieval&Cleaning.ipynb
